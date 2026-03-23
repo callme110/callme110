@@ -1,88 +1,165 @@
-<!--
-  把这个文件放到：仓库名 = 你的 GitHub 用户名，文件名 README.md
-  替换所有大写占位符（YOUR_USERNAME, AVATAR_URL, ...）
--->
-
 <div align="center">
-  <!-- 头像（可用 GitHub 头像或外链） -->
-  <img src="https://github.com/callme110.png" alt="avatar" width="120" style="border-radius:50%"/>
+  <img src="https://github.com/callme110.png" alt="avatar" width="120" style="border-radius:50%" />
 
-  <h1>Hi, I’m Ajay 👋</h1>
-  <p><em>Postgraduate student at Jinan University, Guangzhou · Agent & Model Security researcher · Java backend engineer</em></p>
+  <h1>Hi, I'm Ajay 👋</h1>
+  <p><em>Java Backend Developer · LLM Inference Enthusiast · Agent Security Researcher</em></p>
 
-  <!-- 简短一句话 -->
   <p>
-    🔭 Research: Agent systems & Model Security · 💼 Work: Agent dev & Java backend · ⚡️ Open to collaborations
+    From building backend services with Java to exploring efficient LLM inference and secure agent systems.
   </p>
 
-  <!-- 社交/联系方式徽章（替换 USERNAME / EMAIL）-->
   <p>
-    <a href="https://github.com/https://github.com/callme110"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-@callme110-181717?style=for-the-badge&logo=github" /></a>
-    <a href="mailto:"><img alt="Email" src="https://img.shields.io/badge/Email-YOUR_EMAIL-blue?style=for-the-badge&logo=gmail" /></a>
-    <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+    <a href="https://github.com/callme110">
+      <img alt="GitHub" src="https://img.shields.io/badge/GitHub-@callme110-181717?style=for-the-badge&logo=github" />
+    </a>
+    <a href="mailto:zj2983902670@gmail.com">
+      <img alt="Email" src="https://img.shields.io/badge/Email-zj2983902670%40gmail.com-blue?style=for-the-badge&logo=gmail" />
+    </a>
+    <a href="#">
+      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Updating-0A66C2?style=for-the-badge&logo=linkedin" />
+    </a>
+    <a href="#">
+      <img alt="Xiaohongshu" src="https://img.shields.io/badge/Xiaohongshu-Updating-FF2442?style=for-the-badge&logo=bookstack&logoColor=white" />
+    </a>
   </p>
 </div>
 
 ---
 
 ## 🧭 About Me
-- 🎓 **A postgraduate student at Jinan University, Guangzhou.**
-- 🔬 **Research:** Agent systems, Model Security (robustness, prompt attacks, model poisoning).
-- 💻 **Work:** Agent development & Java backend engineering (Spring Boot / Microservices).
-- 💡 I enjoy building secure, reliable agent systems and exploring model-level defenses.
+
+I'm a developer and researcher currently focused on the intersection of:
+
+- **Java backend engineering** — building reliable server-side systems with **Spring Boot** and **Spring Cloud**
+- **LLM inference systems** — especially **vLLM**, inference efficiency, and deployment optimization
+- **Research topics** — **operator/kernel optimization** and **Agent Security**
+
+My background started from backend development, and now I’m moving deeper into the infrastructure side of large models:
+how to make inference faster, more stable, and more secure.
 
 ---
 
-## 🛠️ Tech & Tools
-<!-- 使用 shields.io 徽章展示技能 -->
+## 🔬 Current Interests
+
+- ⚙️ **LLM Inference Engineering**
+  - vLLM deployment and serving
+  - Throughput / latency optimization
+  - Memory efficiency and scheduling
+  - Practical inference system design
+
+- 🧠 **Operator / Kernel Optimization**
+  - Model execution efficiency
+  - Compute and memory bottlenecks
+  - Optimization for real-world inference workloads
+
+- 🛡️ **Agent Security**
+  - Prompt injection risks
+  - Tool misuse and unsafe agent behaviors
+  - Reliability and defense mechanisms for agent systems
+
+- ☕ **Backend Engineering**
+  - Java service architecture
+  - Microservices with Spring Boot / Spring Cloud
+  - API design, service governance, and engineering best practices
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
 <p>
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
-  <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img alt="Spring Cloud" src="https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+</p>
+
+### LLM / AI
+<p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img alt="vLLM" src="https://img.shields.io/badge/vLLM-LLM%20Inference-blueviolet?style=flat-square" />
+  <img alt="Transformers" src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+</p>
+
+### Tools
+<p>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
 </p>
 
 ---
 
-## 📂 Selected Projects
-- **Agent-Secure** — Research code for defending agents from prompt/chain attacks.  
-  `https://github.com/YOUR_USERNAME/agent-secure`
-- **Forest-Detection-Drone** — (paper/code) YOLOv5-based drone system for forest fire detection.  
-  `https://github.com/YOUR_USERNAME/forest-detection-drone`
-- **My-Java-Backend-Template** — Boilerplate for microservices with Spring Boot + Docker + CI.  
-  `https://github.com/YOUR_USERNAME/java-backend-template`
+## 📌 What I'm Working On
 
-> 把每个项目的短说明和链接替换成你真实的项目与描述。
+- Building a stronger understanding of **large model inference systems**
+- Exploring **vLLM-based deployment and optimization**
+- Studying **operator optimization** for efficient model execution
+- Researching **security problems in agent systems**
+- Combining my **backend engineering experience** with **LLM infrastructure**
+
+---
+
+## 📂 Featured Projects
+
+> 这里建议你只放 3 个最能代表自己的项目，不要堆太多。
+
+### 1. LLM Inference / vLLM Practice
+A project focused on deploying and testing large model inference workflows with **vLLM**, including serving, performance observation, and optimization experiments.  
+
+### 2. Agent Security Notes / Research
+A research-oriented repository for collecting experiments, notes, and implementations related to **agent security**, including prompt injection and defense ideas.  
+
+### 3. Java Backend Service Project
+A backend service project based on **Spring Boot / Spring Cloud**, showing service design, API development, and engineering practices in Java.  
+
+> 你可以把这里替换成真实仓库链接，例如：
+> - `https://github.com/callme110/xxx`
+> - `https://github.com/callme110/xxx`
+> - `https://github.com/callme110/xxx`
 
 ---
 
 ## 📈 GitHub Stats
-<!-- 可选：GitHub Readme Stats（替换 YOUR_USERNAME） -->
+
 <p align="left">
-  <img alt="Ajay's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=default" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=default" />
+  <img alt="Ajay's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=callme110&show_icons=true&hide_border=true&theme=default" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=callme110&layout=compact&hide_border=true&theme=default" />
 </p>
 
 ---
 
+## 📚 Learning Journey
+
+I’m particularly interested in the path from:
+
+**Backend Engineering → LLM Systems → Inference Optimization → Secure Agents**
+
+I enjoy learning not only how to build systems that work,  
+but also how to make them:
+
+- faster,
+- more scalable,
+- and more trustworthy.
+
+---
+
 ## 📫 Contact
-- Email: `YOUR_EMAIL`
-- LinkedIn: `https://www.linkedin.com/in/YOUR_LINKEDIN`
-- Twitter / X: `https://twitter.com/YOUR_HANDLE` (可选)
+
+- Email: **zj2983902670@gmail.com**
+- GitHub: **[@callme110](https://github.com/callme110)**
+- LinkedIn: **updating**
+- Xiaohongshu: **updating**
 
 ---
 
-## ⚡ Fun / Extra
-- 🧠 Favorite quote: *“Science is the organized skepticism in the reliability of expert opinion.”*  
-- 🔭 Currently reading: papers on model robustness and secure agent orchestration.
+## ⚡ Motto
 
----
-
-如果你愿意，我可以：
-1. 把 `YOUR_USERNAME` 自动替换成你真实用户名并生成 README（你把用户名发给我）。  
-2. 或者我直接给你一个更“高级”版本：带动图、语言分布环、项目卡片排版与 GitHub Actions 一键更新模板。  
-
-想要哪个？（我已经准备好把 README 打磨成开会也能用的自我介绍卡片 😏）
+> Build useful systems.  
+> Optimize what matters.  
+> Secure what we trust.
