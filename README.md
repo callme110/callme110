@@ -15,12 +15,6 @@
     <a href="mailto:zj2983902670@gmail.com">
       <img alt="Email" src="https://img.shields.io/badge/Email-zj2983902670%40gmail.com-blue?style=for-the-badge&logo=gmail" />
     </a>
-    <a href="#">
-      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Updating-0A66C2?style=for-the-badge&logo=linkedin" />
-    </a>
-    <a href="#">
-      <img alt="Xiaohongshu" src="https://img.shields.io/badge/Xiaohongshu-Updating-FF2442?style=for-the-badge&logo=bookstack&logoColor=white" />
-    </a>
   </p>
 </div>
 
@@ -60,7 +54,7 @@ how to make inference faster, more stable, and more secure.
 - ☕ **Backend Engineering**
   - Java service architecture
   - Microservices with Spring Boot / Spring Cloud
-  - API design, service governance, and engineering best practices
+  - API design, service governance, 和 engineering best practices
 
 ---
 
@@ -134,32 +128,7 @@ A backend service project based on **Spring Boot / Spring Cloud**, showing servi
 
 ---
 
-## 📚 Learning Journey
 
-I’m particularly interested in the path from:
 
-**Backend Engineering → LLM Systems → Inference Optimization → Secure Agents**
 
-I enjoy learning not only how to build systems that work,  
-but also how to make them:
 
-- faster,
-- more scalable,
-- and more trustworthy.
-
----
-
-## 📫 Contact
-
-- Email: **zj2983902670@gmail.com**
-- GitHub: **[@callme110](https://github.com/callme110)**
-- LinkedIn: **updating**
-- Xiaohongshu: **updating**
-
----
-
-## ⚡ Motto
-
-> Build useful systems.  
-> Optimize what matters.  
-> Secure what we trust.
